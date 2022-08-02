@@ -10,10 +10,11 @@
 class DiegoPolicarpo():
     
   def __init__(self):
-    self.name = "Diego Policarpo";
-    self.username = "PolicarpoDi";
-    self.location = "São José do Rio Preto/SP, Brasil";
-    self.twitter = "@Policarpo10";
+    self.name = "Diego Policarpo",
+    self.username = "PolicarpoDi",
+    self.City = "São José do Rio Preto",
+    self.State = "São Paulo,
+    self.Country = "Brasil"
   
   def __str__(self):
     return self.name
