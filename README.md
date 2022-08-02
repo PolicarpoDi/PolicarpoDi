@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Diego Policarpo</b>
+  <b>Poli</b>
 </h1>
 <h3>EAEEE!! Sou o Diego Policarpo, desenvolvedor e eterno estudante de técnologia. </h3>
 <br>
