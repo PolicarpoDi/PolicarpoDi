@@ -13,7 +13,7 @@ class DiegoPolicarpo():
     self.name = "Diego Policarpo",
     self.username = "PolicarpoDi",
     self.City = "São José do Rio Preto",
-    self.State = "São Paulo,
+    self.State = "São Paulo",
     self.Country = "Brasil"
   
   def __str__(self):
