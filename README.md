@@ -12,9 +12,9 @@ class DiegoPolicarpo():
   def __init__(self):
     self.name = "Diego Policarpo",
     self.username = "PolicarpoDi",
-    self.City = "São José do Rio Preto",
-    self.State = "São Paulo,
-    self.Country = "Brasil"
+    self.city = "São José do Rio Preto",
+    self.state = "São Paulo,
+    self.country = "Brasil"
   
   def __str__(self):
     return self.name
