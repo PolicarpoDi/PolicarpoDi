@@ -58,7 +58,6 @@ if __name__ == '__main__':
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupternotebook&logoColor=007ACC)
   ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=jupternotebook&logoColor=007ACC)
 
