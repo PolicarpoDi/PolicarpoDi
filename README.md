@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-## 🚀 Engenharia de Dados e IA
+#### 🚀 Engenharia de Dados e IA
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
@@ -47,7 +47,7 @@ if __name__ == '__main__':
 ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai)
 ![RAG](https://img.shields.io/badge/-RAG-333333?style=flat&logo=openai)
 
-## ☁️ Cloud & Infraestrutura
+#### ☁️ Cloud & Infraestrutura
 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 ![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazonaws)
@@ -57,13 +57,13 @@ if __name__ == '__main__':
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-## 🗄️ Bancos de Dados
+#### 🗄️ Bancos de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 
-## 🔗 Backend & APIs
+#### 🔗 Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
@@ -71,19 +71,19 @@ if __name__ == '__main__':
 ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=postman)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-## 📊 Analytics & BI
+#### 📊 Analytics & BI
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 
-## ⚙️ DevOps & Versionamento
+#### ⚙️ DevOps & Versionamento
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-## 🛠️ Ferramentas
+#### 🛠️ Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
