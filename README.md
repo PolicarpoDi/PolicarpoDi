@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Poli</b>
+  <b>Policarpo</b>
 </h1>
 <h3>EAEEE!! Sou o Diego Policarpo, desenvolvedor e eterno estudante de técnologia. </h3>
 <br>
@@ -29,8 +29,8 @@ if __name__ == '__main__':
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Pós graduado em Engenharia de Software na <a href="https://www.anhanguera.com/">Anhanguera Educacional</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedor na <a href="https://accurate.com.br/">Accurate Software</a>
-- 🌱 &nbsp; Aprendendo mais sobre Python e sua ampla funcionalidade (Desenvolvimento Web, Data Science, Web Scraping e Machine Learning).
+- 💼 &nbsp; Atualmente trabalhando como Engenheiro de Dados/IA na NTT Data <a href="[https://accurate.com.br](https://www.linkedin.com/company/ntt-data-europe-latam/posts/?feedView=all)/">NTT Data</a>
+- 🌱 &nbsp; Aprendendo mais sobre Python, Dados e IA e suas amplas funcionalidades (Desenvolvimento Web Backend, Ciência de Dados, Engenharia de Dados e IA).
 
 <br/>
 
