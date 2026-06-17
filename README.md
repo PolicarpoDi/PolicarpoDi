@@ -36,30 +36,59 @@ if __name__ == '__main__':
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+## 🚀 Engenharia de Dados e IA
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=scikitlearn)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-333333?style=flat&logo=openai)
+![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai)
+![RAG](https://img.shields.io/badge/-RAG-333333?style=flat&logo=openai)
 
-**Utilidades**
+## ☁️ Cloud & Infraestrutura
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazonaws)
+![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazonaws)
+![Lambda](https://img.shields.io/badge/-Lambda-333333?style=flat&logo=awslambda)
+![SageMaker](https://img.shields.io/badge/-SageMaker-333333?style=flat&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**DevOps**
+## 🗄️ Bancos de Dados
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 
-**Ferramentas de Desenvolvimento**
+## 🔗 Backend & APIs
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupternotebook&logoColor=007ACC)
-  ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=jupternotebook&logoColor=007ACC)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy)
+![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+## 📊 Analytics & BI
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+
+## ⚙️ DevOps & Versionamento
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+## 🛠️ Ferramentas
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)
 
 <br/>
 
