@@ -30,7 +30,7 @@ if __name__ == '__main__':
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Pós graduado em Engenharia de Software na <a href="https://www.anhanguera.com/">Anhanguera Educacional</a>.
 - 💼 &nbsp; Atualmente trabalhando como Engenheiro de Dados/IA na <a href="https://www.linkedin.com/company/ntt-data-europe-latam/posts/?feedView=all/">NTT Data</a>
-- 🌱 &nbsp; Aprendendo mais sobre Python, Dados e IA e suas amplas funcionalidades (Desenvolvimento Web Backend, Ciência de Dados, Engenharia de Dados e IA).
+- 🌱 &nbsp; Aprendendo mais sobre Python, Dados e IA e suas amplas funcionalidades (Desenvolvimento Backend, Ciência de Dados, Engenharia de Dados e IA).
 
 <br/>
 
